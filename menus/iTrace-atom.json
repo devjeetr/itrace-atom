@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "label": "iTrace Atom",
+      "submenu": [
+        {
+          "label": "Connect to iTrace Core",
+          "accelerator": "CmdOrCtrl+Shift+PageUp",
+          "command": "iTrace-atom:connect"
+        },
+        {
+          "label": "Disconnect from iTrace Core",
+          "accelerator": "CmdOrCtrl+Shift+PageDown",
+          "command": "iTrace-atom:disconnect",
+          "enabled": "false"
+        },
+        {
+          "type": "separator"
+        },
+        {
+          "label": "Help",
+          "accelerator": "CmdOrCtrl+Shift+H",
+          "command": "iTrace-atom:help"
+        }
+      ]
+    }
+  ]
+}
