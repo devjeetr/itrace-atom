@@ -1,10 +1,10 @@
 {
-  "name": "iTrace-atom",
+  "name": "itrace-atom",
   "main": "./lib/iTrace-atom",
   "version": "0.0.0",
-  "description": "An ATOM based eyetracker interface",
+  "description": "iTrace plugin for Atom",
   "keywords": [],
-  "repository": "https://github.com/atom/iTrace-atom",
+  "repository": "https://github.com/devjeetr/itrace-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
