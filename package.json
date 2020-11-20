@@ -1,7 +1,7 @@
 {
   "name": "itrace-atom",
   "main": "./lib/iTrace-atom",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "iTrace plugin for Atom",
   "keywords": [],
   "repository": "https://github.com/devjeetr/itrace-atom",
